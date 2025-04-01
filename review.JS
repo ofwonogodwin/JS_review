@@ -40,3 +40,19 @@ console.log(typeof bool)
 // undefined
 let user1 
 console.log(typeof user1)
+
+// Converting data Types from One type to another
+let numx = 6
+console.log(numx,typeof numx)
+
+let numy = String(6)
+console.log(numy,typeof numy)
+
+let numz = Number("123")
+console.log(numz,typeof numz)
+
+let name1 = Boolean("Godwin")
+console.log(name1, typeof name1)
+
+let z = parseInt("123 Navin")
+console.log(z,typeof z)
