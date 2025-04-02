@@ -10,3 +10,4 @@ console.log(data);
 // logical Operators  eg.. &&(and),||(or),  !(not)
 // will see them in Conditional statements
 
+
