@@ -64,3 +64,23 @@ else{
     resulta="Odd"
 }
 console.log(numa," is an ",resulta," number");
+
+//Alarm system.
+let day = "Sunday"
+
+if(day =="Monday"){
+   console.log("It's 7am, Wake Up!!");
+   
+}
+else if(day =="Friday"){
+   console.log("It's 9am, Wake Up!!");
+   
+}
+else if(day=="Saturday" || day=="Sunday"){
+   console.log("It's 8am, Wake Up!!");
+   
+}
+else{
+   console.log("It's 4am, Wake Up!!");
+   
+}
