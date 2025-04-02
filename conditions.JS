@@ -52,3 +52,15 @@ let result
 
 result =num%2===0 ?"Even":"Odd"
 console.log(result)
+
+// Option 2
+let numa = 8
+let resulta
+
+if(numa%2===0){
+    resulta = "Even"
+}
+else{
+    resulta="Odd"
+}
+console.log(numa," is an ",resulta," number");
